@@ -47,7 +47,7 @@
 			  <version>3.0.0</version>
 			  <configuration>
 			    <to>
-			      <image>registry.hub.docker.com/gnt4321/jibimagetest</image>
+			      <image>registry.hub.docker.com/<<your docker hub account uid>></>jibimagetest</image>
 			    </to>
 			  </configuration>
 			</plugin>
