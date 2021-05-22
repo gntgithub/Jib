@@ -2,7 +2,11 @@ package com.gnt.jib;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+/**
+ * 
+ * @author girish
+ *
+ */
 @SpringBootApplication
 public class Jib1Application {
 
